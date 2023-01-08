@@ -1,0 +1,17 @@
+Ok so before we start using the darknet is not “illegal”. IF you buy drugs or do other dumb shit that is but if you dont its all free game. And one more thing its not stupid hard to do.
+
+Alr heres how,
+1. Make sure your parents or school arent snooping on your internet or computer. Theres a TON of bad press on the darknet and they will get mad at u. Use a fuckin free vpn like windscribe to get around that really quick but delete it after.
+
+2. Choose what darknet client ur using. Your choices are i2p or TOR. I personaly never used i2p so i guess i will just show you how to do TOR.
+
+3. Download TOR. Go to https://torproject.org and click download.
+
+4. Open the download and install it.
+
+5. Open the app.
+
+6. Wait for it to connect. This may take a second.
+
+There you go! Now keep in mind the darknet is not like the clearnet. There are search engines but the suck. Your gonna need connections to get sites but you could get started with https://tor.taxi in ur browser. Hope it helps u for whatever reason and now you can flex on your friends cause you know how to get on it.
+THIS IS ALSO ON MY MEDIUM @ https://CORNERCAT.MEDIUM.COM
